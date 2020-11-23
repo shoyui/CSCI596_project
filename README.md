@@ -14,8 +14,17 @@ Python 3 + Fortran 2003
 
 >### Method
 QSW MPI addresses these limitations by taking a distributed memory approach to the construction of the QSW superoperator and the calculation of system evolution via matrix exponentiation.
-A continuous-time quantum walk (CTQW) is constructed by mapping G to an N-dimensional Hilbert space where the set of its vertices form an orthonormal basis. 
+A continuous-time quantum walk (CTQW) is constructed by mapping G to an N-dimensional Hilbert space where the set of its vertices form an orthonormal basis. In place of p(t), the evolution of the state vector is considered,the dynamics of which are governed by the Schrodinger equation
 
+<img src="https://docs.google.com/uc?id=1iFmDkK-UiT0Za-5G6GCMHPoPlkYYWS4i" alt="drawing" width="150"/>
+
+A density matrix below,describes a statistical ensemble of quantum states
+
+<img src="https://docs.google.com/uc?id=1dbrTb7aI1xydcqXoQMDREpc7h7r6iJop" alt="drawing" width="200"/>
+
+The standard form of a QSW :
+
+<img src="https://docs.google.com/uc?id=1lOdiuY_CJu_GrAgAcTIwTTcwgkyuPL62" alt="drawing" width="300"/>
 
 
 >### Results  
