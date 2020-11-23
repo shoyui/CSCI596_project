@@ -22,6 +22,7 @@ A continuous-time quantum walk (CTQW) is constructed by mapping G to an N-dimens
 ##### Figure 1
 <img src="https://docs.google.com/uc?id=1vYpaX1G4GNHPjmqegywgpgi0cIdUsw1N" alt="drawing" width="800"/>
 Figure 1 examines the difference between L-QSW simulation results obtained using the QSW MPI step method as compared to those obtained with the QSWalk.m package.
+
 ##### Figure 2
 <img src="https://docs.google.com/uc?id=1m_u1UqnqiAE3VKcvrXTGufm5P1EefPwI" alt="drawing" width="800"/>
 
